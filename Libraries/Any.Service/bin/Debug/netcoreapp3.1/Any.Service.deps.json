@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Any.Service/1.0.0": {
+        "dependencies": {
+          "Any.Data": "1.0.0"
+        },
+        "runtime": {
+          "Any.Service.dll": {}
+        }
+      },
+      "Any.Data/1.0.0": {
+        "runtime": {
+          "Any.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Any.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Any.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\bin\Debug\netcoreapp3.1\Any.Data.deps.json
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\bin\Debug\netcoreapp3.1\Any.Data.dll
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\bin\Debug\netcoreapp3.1\Any.Data.pdb
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\obj\Debug\netcoreapp3.1\Any.Data.csprojAssemblyReference.cache
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\obj\Debug\netcoreapp3.1\Any.Data.csproj.CoreCompileInputs.cache
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\obj\Debug\netcoreapp3.1\Any.Data.AssemblyInfoInputs.cache
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\obj\Debug\netcoreapp3.1\Any.Data.AssemblyInfo.cs
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\obj\Debug\netcoreapp3.1\Any.Data.dll
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Libraries\Any.Data\obj\Debug\netcoreapp3.1\Any.Data.pdb

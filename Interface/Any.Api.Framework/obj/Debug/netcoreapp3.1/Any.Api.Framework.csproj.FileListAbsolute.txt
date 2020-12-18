@@ -1,0 +1,12 @@
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\bin\Debug\netcoreapp3.1\Any.Api.Framework.deps.json
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\bin\Debug\netcoreapp3.1\Any.Api.Framework.dll
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\bin\Debug\netcoreapp3.1\Any.Api.Framework.pdb
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\bin\Debug\netcoreapp3.1\Any.Core.dll
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\bin\Debug\netcoreapp3.1\Any.Core.pdb
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.csprojAssemblyReference.cache
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.csproj.CoreCompileInputs.cache
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.AssemblyInfoInputs.cache
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.AssemblyInfo.cs
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.csproj.CopyComplete
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.dll
+E:\WorkSpace\AnyFx\CoreApi\AnyFx\Interface\Any.Api.Framework\obj\Debug\netcoreapp3.1\Any.Api.Framework.pdb
